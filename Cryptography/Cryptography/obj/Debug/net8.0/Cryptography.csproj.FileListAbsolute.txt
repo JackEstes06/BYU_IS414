@@ -1,0 +1,17 @@
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/bin/Debug/net8.0/Cryptography
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/bin/Debug/net8.0/Cryptography.deps.json
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/bin/Debug/net8.0/Cryptography.runtimeconfig.json
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/bin/Debug/net8.0/Cryptography.dll
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/bin/Debug/net8.0/Cryptography.pdb
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/obj/Debug/net8.0/Cryptography.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/obj/Debug/net8.0/Cryptography.AssemblyInfoInputs.cache
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/obj/Debug/net8.0/Cryptography.AssemblyInfo.cs
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/obj/Debug/net8.0/Cryptography.csproj.CoreCompileInputs.cache
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/obj/Debug/net8.0/Cryptography.dll
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/obj/Debug/net8.0/refint/Cryptography.dll
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/obj/Debug/net8.0/Cryptography.pdb
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/obj/Debug/net8.0/Cryptography.genruntimeconfig.cache
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/obj/Debug/net8.0/ref/Cryptography.dll
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/bin/Debug/net8.0/BouncyCastle.Crypto.dll
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/obj/Debug/net8.0/Cryptography.csproj.AssemblyReference.cache
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/obj/Debug/net8.0/Cryptogr.F43357C4.Up2Date

@@ -15,3 +15,4 @@
 /Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/bin/Debug/net8.0/BouncyCastle.Crypto.dll
 /Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/obj/Debug/net8.0/Cryptography.csproj.AssemblyReference.cache
 /Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/obj/Debug/net8.0/Cryptogr.F43357C4.Up2Date
+/Users/jackestes/Documents/Current Semester/IS414/Cryptography/Cryptography/obj/Debug/net8.0/Cryptography.sourcelink.json
